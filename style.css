@@ -167,8 +167,8 @@ main section button img {
 @media screen and (max-width: 800px){
     body{
         background: white;
-
-
+        display: flex;
+        align-items: flex-start;
         width: 100vw;
         max-width: 100vw;
     }
